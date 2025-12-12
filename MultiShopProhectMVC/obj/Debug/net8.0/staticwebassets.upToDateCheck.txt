@@ -989,3 +989,4 @@ wwwroot\assets\scss\bootstrap\scss\_type.scss
 wwwroot\assets\scss\bootstrap\scss\_utilities.scss
 wwwroot\assets\scss\bootstrap\scss\_variables.scss
 wwwroot\assets\scss\style.scss
+wwwroot\assets\img\b400a8c3-23f8-4265-99c9-f3774a74acc6.JPEG
