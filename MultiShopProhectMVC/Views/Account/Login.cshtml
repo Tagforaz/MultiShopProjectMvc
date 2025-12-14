@@ -1,0 +1,37 @@
+﻿@using MultiShopProjectMVC.ViewModels.Accounts
+@model LoginVM
+
+<div class="container-fluid">
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Log In</span></h2>
+    <div class="row px-xl-5">
+        <div class="col-lg-12 mb-5">
+            <div class="contact-form bg-light p-30">
+                <div id="success"></div>
+                <form method="post" >
+
+                    <div class="control-group col-lg-6">
+                        <label asp-for="UserNameOrEmail">Username Or Email</label>
+                        <input asp-for="UserNameOrEmail" placeholder="Username Or Email" class="form-control" />
+                        <span asp-validation-for="UserNameOrEmail" class="text-danger"></span>
+                    </div> <br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="Password">Password</label>
+                        <input asp-for="Password" placeholder="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div><br />
+                    <div class="control-group col-lg-1 d-flex">
+                        <label asp-for="IsPersistant">Remember Me </label>
+                        <input asp-for="IsPersistant" class="form-control" style="font-size:10px;" type="checkbox" />
+                        <span asp-validation-for="IsPersistant" class="text-danger"></span>
+                    </div><br /><br />
+                    <div>
+                        <button class="btn btn-primary py-2 px-4" type="submit">
+                            Login
+                        </button>
+                    </div>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

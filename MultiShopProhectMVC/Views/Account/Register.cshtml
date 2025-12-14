@@ -1,0 +1,88 @@
+﻿@using MultiShopProjectMVC.Utilities
+@using MultiShopProjectMVC.ViewModels.Accounts
+@model RegisterVM
+
+
+<!-- Contact Start -->
+<div class="container-fluid">
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Register</span></h2>
+    <div class="row px-xl-5">
+        <div class="col-lg-12 mb-5">
+            <div class="contact-form bg-light p-30">
+                <div id="success"></div>
+                <form method="post" enctype="multipart/form-data">
+
+                    <div class="control-group col-lg-6">
+                        <label asp-for="Name">Name</label>
+                        <input asp-for="Name" placeholder="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div><br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="Surname">Surname</label>
+                        <input asp-for="Surname" placeholder="Surname" class="form-control" />
+                        <span asp-validation-for="Surname" class="text-danger"></span>
+                    </div> <br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="Birthday">Birthday</label>
+                        <input asp-for="Birthday" placeholder="Birthday" class="form-control" />
+                        <span asp-validation-for="Birthday" class="text-danger"></span>
+                    </div><br />
+                    <div class="control-group col-lg-12">
+                        <label>Gender</label>
+                        <div class="gender-options" style="display:flex; gap:15px; margin-top:5px; width: 50px;">
+                            <div class="form-check" style="display:flex; align-items:center;">
+                                <input type="radio" asp-for="Gender" value="@((int)Gender.Male)" id="genderMale" />
+                                <label class="form-check-label" for="genderMale"> Male </label>
+                            </div>
+                            <div class="form-check" style="display:flex; align-items:center;">
+                                <input type="radio" asp-for="Gender" value="@((int)Gender.Female)" id="genderFemale" />
+                                <label class="form-check-label" for="genderFemale"> Female </label>
+                            </div>
+                        </div>
+                        <span asp-validation-for="Gender" class="text-danger"></span>
+                    </div> <br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="PhoneNumber">Phone number</label>
+                        <input asp-for="PhoneNumber" placeholder="Phone number" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div> <br />
+
+                    <div class="col-md-12 col-12">
+                        <label asp-for="Photo">Profile Photo</label> <br />
+                        <input asp-for="Photo" />
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div> <br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="UserName">Username</label>
+                        <input asp-for="UserName" placeholder="Username" class="form-control" />
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div> <br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="Email">Email</label>
+                        <input asp-for="Email" placeholder="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div> <br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="Password">Password</label>
+                        <input asp-for="Password" placeholder="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div><br />
+                    <div class="control-group col-lg-6">
+                        <label asp-for="ConfirmPassword">Confirm Password</label>
+                        <input asp-for="ConfirmPassword" placeholder="Confirm Password" class="form-control" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div><br /><br />
+
+                    <div>
+                        <button class="btn btn-primary py-2 px-4" type="submit">
+                            Register
+                        </button>
+
+                    </div>
+                    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Contact End -->
