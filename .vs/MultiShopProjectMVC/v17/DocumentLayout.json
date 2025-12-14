@@ -3,28 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\products\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\products\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\colors\\detailscolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\colors\\detailscolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\colors\\getcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\colors\\getcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\services\\implementations\\layoutservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\services\\implementations\\layoutservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\services\\interfaces\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\services\\interfaces\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251214153800_SettingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiShopProhectMVC\\Migrations\\20251214153800_SettingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\categories\\detailscategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\categories\\detailscategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\colors\\updatecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\colors\\updatecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\size\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\size\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\categories\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\categories\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\size\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,40 +143,64 @@
       "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\size\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\size\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\size\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\color\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\color\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\color\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\color\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\color\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\products\\detailsproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\products\\detailsproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251214113039_AddProductColorsAndProductSizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiShopProhectMVC\\Migrations\\20251214113039_AddProductColorsAndProductSizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\color\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\color\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\sizes\\createsizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\sizes\\createsizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\colors\\updatecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\colors\\updatecolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\colors\\getcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\colors\\getcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\colors\\detailscolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\colors\\detailscolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\colors\\createcolorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,56 +219,16 @@
       "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\sizes\\detailssizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\categories\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\categories\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\viewmodels\\categories\\detailscategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\viewmodels\\categories\\detailscategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|c:\\users\\tagforaz\\desktop\\pb306\\multishopprohectmvc\\multishopprohectmvc\\migrations\\20251213220940_colorandsizeadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F7204-7021-4C0C-8ECC-2F76B3A6DA0D}|MultiShopProhectMVC\\MultiShopProjectMVC.csproj|solutionrelative:multishopprohectmvc\\migrations\\20251213220940_colorandsizeadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,219 +238,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T23:37:13.518Z",
+              "DocumentIndex": 10,
+              "Title": "LayoutServices.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Services\\Implementations\\LayoutServices.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Services\\Implementations\\LayoutServices.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Services\\Implementations\\LayoutServices.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Services\\Implementations\\LayoutServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:28:36.786Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T22:28:16.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T22:37:05.153Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T22:19:23.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T22:33:50.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T23:12:00.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T10:53:59.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T10:21:31.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T10:36:04.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ColorController.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:15:47.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SizeController.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:16:10.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T23:14:01.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T23:13:45.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateSizeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:27:07.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T23:14:14.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UpdateColorVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T23:04:19.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "GetColorVM.cs",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\GetColorVM.cs",
               "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Colors\\GetColorVM.cs",
@@ -375,7 +272,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T13:01:00.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Program.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Program.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:32:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DetailsColorVM.cs",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\DetailsColorVM.cs",
               "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Colors\\DetailsColorVM.cs",
@@ -388,98 +311,323 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Products\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Products\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Products\\UpdateProductVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Products\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:31:45.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:32:59.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T11:45:43.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:50:28.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALAAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T12:51:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAYwAgBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T13:23:08.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Services\\Interfaces\\ILayoutService.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Services\\Interfaces\\ILayoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:29:31.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251214153800_SettingAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251214153800_SettingAdded.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Migrations\\20251214153800_SettingAdded.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251214153800_SettingAdded.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Migrations\\20251214153800_SettingAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:38:01.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:03:55.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Setting.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Models\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:35:08.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailsCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:23:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:32:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateColorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Colors\\UpdateColorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:04:19.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "CreateColorVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "DetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\DetailsVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\DetailsVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\DetailsVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\DetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T23:10:04.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UpdateSizeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:33:03.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetSizeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:18:14.251Z",
+              "WhenOpened": "2025-12-14T13:06:39.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "DetailsSizeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:36:20.798Z",
+              "WhenOpened": "2025-12-14T12:34:19.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Color.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\Color.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Color.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Models\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\ShopVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\ShopVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\ShopVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\ShopVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T21:45:55.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Size.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Size.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\Size.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Size.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Models\\Size.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:01:11.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T10:10:54.175Z",
+              "WhenOpened": "2025-12-14T12:49:56.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:27:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Product.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:27:14.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T23:14:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T23:12:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwDcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T11:31:38.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T11:46:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T23:37:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T22:28:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "UpdateCategoryVM.cs",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\UpdateCategoryVM.cs",
               "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Categories\\UpdateCategoryVM.cs",
@@ -492,28 +640,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20251213220940_ColorAndSizeAdded.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:09:41.137Z",
+              "DocumentIndex": 23,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T22:33:50.784Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T22:37:05.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Size\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T22:19:23.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T10:21:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductColor.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\ProductColor.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductColor.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Models\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T21:57:21.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T10:53:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T23:13:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Products\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Products\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:20:43.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
@@ -526,20 +757,222 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 39,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAQwPwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:03:55.446Z",
+              "WhenOpened": "2025-12-13T10:10:52.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 40,
+              "Title": "DetailsProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Products\\DetailsProductVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Products\\DetailsProductVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Products\\DetailsProductVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Products\\DetailsProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:39:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251214113039_AddProductColorsAndProductSizes.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251214113039_AddProductColorsAndProductSizes.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Migrations\\20251214113039_AddProductColorsAndProductSizes.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251214113039_AddProductColorsAndProductSizes.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Migrations\\20251214113039_AddProductColorsAndProductSizes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:30:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:15:47.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Color.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Models\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T21:45:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductSize.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\ProductSize.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductSize.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Models\\ProductSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:01:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\Size.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Models\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:01:11.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SizeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\SizeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:16:10.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T10:36:04.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateSizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\CreateSizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:27:07.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Color\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T23:14:14.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateColorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Colors\\CreateColorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T23:10:04.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateSizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\UpdateSizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:33:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetSizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\GetSizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:18:14.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DetailsSizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Sizes\\DetailsSizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:36:20.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:10:54.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20251213220940_ColorAndSizeAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
+              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
+              "RelativeToolTip": "MultiShopProhectMVC\\Migrations\\20251213220940_ColorAndSizeAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T22:09:41.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -547,70 +980,7 @@
               "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwC8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T10:11:05.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductSize.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductSize.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\ProductSize.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductSize.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Models\\ProductSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T22:01:46.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ProductColor.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductColor.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Models\\ProductColor.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Models\\ProductColor.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Models\\ProductColor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T21:57:21.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CreateCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T10:32:35.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DetailsCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\ViewModels\\Categories\\DetailsCategoryVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T10:23:06.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\MultiShopProhectMVC\\MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "MultiShopProhectMVC\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T10:10:52.362Z"
+              "WhenOpened": "2025-12-13T10:11:05.698Z"
             }
           ]
         }

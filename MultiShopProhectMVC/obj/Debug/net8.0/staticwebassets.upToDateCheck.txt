@@ -852,6 +852,9 @@ wwwroot\assets\css\bootstrap.css
 wwwroot\assets\css\bootstrap.min.css
 wwwroot\assets\css\style.css
 wwwroot\assets\css\style.min.css
+wwwroot\assets\img\3389ee82-68d1-48d5-b010-5d25fec989c2.JPEG
+wwwroot\assets\img\40913f77-3200-42dd-8dec-147c097a1043.JPEG
+wwwroot\assets\img\6b5a41f3-6b97-47b3-b4a7-5abd29c8eddf.JPEG
 wwwroot\assets\img\carousel-1.jpg
 wwwroot\assets\img\carousel-2.jpg
 wwwroot\assets\img\carousel-3.jpg
@@ -989,6 +992,3 @@ wwwroot\assets\scss\bootstrap\scss\_type.scss
 wwwroot\assets\scss\bootstrap\scss\_utilities.scss
 wwwroot\assets\scss\bootstrap\scss\_variables.scss
 wwwroot\assets\scss\style.scss
-wwwroot\assets\img\40913f77-3200-42dd-8dec-147c097a1043.JPEG
-wwwroot\assets\img\3389ee82-68d1-48d5-b010-5d25fec989c2.JPEG
-wwwroot\assets\img\6b5a41f3-6b97-47b3-b4a7-5abd29c8eddf.JPEG

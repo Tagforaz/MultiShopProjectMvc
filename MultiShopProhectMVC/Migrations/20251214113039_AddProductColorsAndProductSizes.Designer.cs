@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MultiShopProjectMVC.DAL;
 
@@ -11,9 +12,11 @@ using MultiShopProjectMVC.DAL;
 namespace MultiShopProjectMVC.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251214113039_AddProductColorsAndProductSizes")]
+    partial class AddProductColorsAndProductSizes
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -139,20 +142,6 @@ namespace MultiShopProjectMVC.Migrations
                     b.HasIndex("SizeId");
 
                     b.ToTable("ProductSizes");
-                });
-
-            modelBuilder.Entity("MultiShopProjectMVC.Models.Setting", b =>
-                {
-                    b.Property<string>("Key")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<string>("Value")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Key");
-
-                    b.ToTable("Settings");
                 });
 
             modelBuilder.Entity("MultiShopProjectMVC.Models.Size", b =>

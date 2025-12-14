@@ -13,6 +13,7 @@ namespace MultiShopProjectMVC.DAL
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<ProductColor>().HasKey(pc => new { pc.ProductId, pc.ColorId });
             modelBuilder.Entity<ProductSize>().HasKey(pc => new { pc.ProductId, pc.SizeId });
+            modelBuilder.Entity<Setting>().HasKey(s => s.Key);
 
         }
         public DbSet<Product> Products { get; set; }
@@ -21,5 +22,6 @@ namespace MultiShopProjectMVC.DAL
         public DbSet<ProductSize> ProductSizes { get; set; }
         public DbSet<Color> Colors { get; set; }
         public DbSet<ProductColor> ProductColors { get; set; }
+        public DbSet<Setting> Settings { get; set; }
     }
 }

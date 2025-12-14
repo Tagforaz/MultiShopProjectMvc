@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MultiShopProjectMVC.DAL;
+using MultiShopProjectMVC.Services.Implementations;
+using MultiShopProjectMVC.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +10,7 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
+builder.Services.AddScoped<ILayoutService,LayoutServices>();
 var app = builder.Build();
 app.UseStaticFiles();
 app.MapControllerRoute(
