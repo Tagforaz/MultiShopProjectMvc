@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MultiShopProjectMVC.DAL;
 using MultiShopProjectMVC.Models;
@@ -7,6 +8,7 @@ using MultiShopProjectMVC.ViewModels;
 namespace MultiShopProjectMVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin,Moderator")]
     public class SizeController : Controller
     {
         private readonly AppDbContext _context;
@@ -15,7 +17,7 @@ namespace MultiShopProjectMVC.Areas.Admin.Controllers
         {
             _context = context;
         }
-   
+
         public async Task<IActionResult> Index()
         {
             List<GetSizeVM> sizeVMs = await _context.Sizes
@@ -27,7 +29,7 @@ namespace MultiShopProjectMVC.Areas.Admin.Controllers
                 .ToListAsync();
             return View(sizeVMs);
         }
-        
+
         public IActionResult Create()
         {
             CreateSizeVM sizeVM = new CreateSizeVM();
@@ -79,6 +81,7 @@ namespace MultiShopProjectMVC.Areas.Admin.Controllers
 
             return View(sizeVM);
         }
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> Update(int? id, UpdateSizeVM sizeVM)
         {
@@ -127,6 +130,7 @@ namespace MultiShopProjectMVC.Areas.Admin.Controllers
 
             return View(sizeVM);
         }
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id is null | id < 1)

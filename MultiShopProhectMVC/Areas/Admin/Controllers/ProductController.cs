@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MultiShopProjectMVC.DAL;
 using MultiShopProjectMVC.Models;
@@ -9,6 +10,7 @@ using MultiShopProjectMVC.ViewModels;
 namespace MultiShopProjectMVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin,Moderator")]
     public class ProductController : Controller
     {
         private readonly AppDbContext _context;
@@ -116,6 +118,7 @@ namespace MultiShopProjectMVC.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id is null || id < 1) return BadRequest();
@@ -152,6 +155,7 @@ namespace MultiShopProjectMVC.Areas.Admin.Controllers
             };
             return View(productVM);
         }
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> Update(int? id, UpdateProductVM productVM)
         {
