@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiShopProjectMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+557cb01c649eff591e43d41e770684b53a69bdda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b1a1eb18c4a102e3af6dfba3f7deaffc1ea4573")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiShopProjectMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiShopProjectMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
